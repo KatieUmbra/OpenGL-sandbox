@@ -1,0 +1,6 @@
+build/
+build
+build/*
+*.o
+*.a
+Makefile
